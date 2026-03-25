@@ -7,7 +7,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```asm
+```
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -38,16 +38,17 @@ subplot (2 ,1 ,2);
 plot(2*fr , hzm_dB); 
 xlabel( ' Normalized Digital Frequency W' ); 
 ylabel( 'Magnitude in dB'); 
-title('Frequency Response of FIR LPF using Rectangular Window'); 
+title('Frequency Response of FIR LPF using Rectangular Window');
 ```
+# CALCULATION:
+
+![WhatsApp Image 2026-03-24 at 11 02 48 PM](https://github.com/user-attachments/assets/fa696d8a-ddcb-4b9d-a25a-d62c82910b72)
 
 # OUTPUT: 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f25f46df-1c52-48e3-892d-cc3995b16842" />
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d7be672d-561e-4cff-98fe-203c5e095587" />
 
-<img width="533" height="492" alt="image" src="https://github.com/user-attachments/assets/43ea4204-e345-4443-ad25-42064b200049" />
+<img width="533" height="492" alt="image" src="https://github.com/user-attachments/assets/1f2255ef-4ac9-48ab-9092-35bcbb3ba188" />
+
 <img width="762" height="717" alt="image" src="https://github.com/user-attachments/assets/4fd0ffd1-c5e3-4fe4-ac8e-63513c212624" />
-
 
 # RESULT: 
 
@@ -59,7 +60,7 @@ Thus design of low pass FIR digital filter using-Rectangular-Window waveforms we
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```asm
+```
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -90,15 +91,18 @@ subplot (2 ,1 ,2);
 plot(2*fr , hzm_dB); 
 xlabel( ' Normalized Digital Frequency W' ); 
 ylabel( 'Magnitude in dB'); 
-title('Frequency Response of FIR HPF using Rectangular Window'); 
+title('Frequency Response of FIR HPF using Rectangular Window');
 ```
+# CALCULATION:
+
+![WhatsApp Image 2026-03-24 at 11 09 11 PM](https://github.com/user-attachments/assets/2578324e-1d23-4a28-98d2-55ddcf220cee)
+
 
 # OUTPUT: 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/08ed8dd9-aeba-4ca9-9091-0a58aea6bf99" />
 
-<img width="514" height="474" alt="image" src="https://github.com/user-attachments/assets/8cc8e05e-696e-4ca4-b714-2fe987c53896" />
-<img width="514" height="474" alt="image" src="https://github.com/user-attachments/assets/2720fa38-ed7f-404c-b59d-94ab001442a4" />
+<img width="762" height="721" alt="image" src="https://github.com/user-attachments/assets/75dce006-74ba-4147-be74-17f3a752dbd0" />
 
+<img width="514" height="474" alt="image" src="https://github.com/user-attachments/assets/41482ad5-e876-4c9c-bf47-ae86fa265211" />
 
 # RESULT: 
 Thus design of HIGH pass FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
@@ -109,7 +113,7 @@ Thus design of HIGH pass FIR digital filter using-Rectangular-Window waveforms w
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```asm
+```
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -142,14 +146,16 @@ subplot (2 ,1 ,2);
 plot(2*fr , hzm_dB); 
 xlabel( ' Normalized Digital Frequency W' ); 
 ylabel( 'Magnitude in dB'); 
-title('Frequency Response of FIR BPF using Rectangular Window'); 
+title('Frequency Response of FIR BPF using Rectangular Window');
 ```
-# OUTPUT: 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a4d212ec-c99f-4099-bd1f-ef2cac1671da" />
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/95b2f0b5-4bc5-4f4d-81cc-dd02a2ff4103" />
+# CALCULATION:
 
-<img width="760" height="720" alt="image" src="https://github.com/user-attachments/assets/962561d3-3e82-4ec4-9e6f-370b679808b6" />
-<img width="549" height="455" alt="image" src="https://github.com/user-attachments/assets/7f1b80cf-1c15-4a00-bbd8-4ad9d857ae3c" />
+![WhatsApp Image 2026-03-24 at 11 13 01 PM](https://github.com/user-attachments/assets/58864370-d160-40e5-90bc-2d7b969f8cdc)
+
+# OUTPUT: 
+
+<img width="760" height="720" alt="image" src="https://github.com/user-attachments/assets/baba688a-df76-4693-b5db-08f9c6048ffe" />
+<img width="549" height="455" alt="image" src="https://github.com/user-attachments/assets/e559bd3f-0e4f-4450-b0a3-9e12b5eca0fd" />
 
 
 # RESULT: 
@@ -161,7 +167,7 @@ Thus design of BAND pass FIR digital filter using-Rectangular-Window waveforms w
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```asm
+```
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -194,14 +200,15 @@ subplot (2 ,1 ,2);
 plot(2*fr , hzm_dB); 
 xlabel( ' Normalized Digital Frequency W' ); 
 ylabel( 'Magnitude in dB'); 
-title('Frequency Response of FIR BSF using Rectangular Window'); 
+title('Frequency Response of FIR BSF using Rectangular Window');
 ```
+# CALCULATION:
+
+![WhatsApp Image 2026-03-24 at 11 14 58 PM](https://github.com/user-attachments/assets/c4937638-7e2a-4f5d-8528-37c643e3e141)
 
 # OUTPUT: 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/1561bf8e-23c3-47cd-8b29-168388de6a0e" />
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a886094f-1839-4ece-86f9-85ba408d1497" />
-<img width="756" height="718" alt="image" src="https://github.com/user-attachments/assets/ec1e8a9a-5556-4988-9b7a-508b1b1fa2ed" />
-<img width="558" height="511" alt="image" src="https://github.com/user-attachments/assets/a70e8020-495b-4de5-8b92-ac79b5e077c8" />
+<img width="756" height="718" alt="image" src="https://github.com/user-attachments/assets/7947da26-cc61-4320-9059-0fd940c6108d" />
+<img width="558" height="511" alt="image" src="https://github.com/user-attachments/assets/98225cf5-19bd-42f0-99dc-1cad975a8e71" />
 
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
