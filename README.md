@@ -1,4 +1,4 @@
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/425a1040-9a89-477e-8416-4236b85c730d" /># FIR-FILTER-DESIGN
+
 # EXP 4 A: Design-of-FIR-Digital-Filter-using-Rectangular-Window
 
 # AIM 1:  To perform Design-of-LOWPASS FIR-Digital-Filter-using-Rectangular-Window using SCILAB.
