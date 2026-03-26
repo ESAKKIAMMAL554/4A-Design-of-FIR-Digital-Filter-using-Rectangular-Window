@@ -42,7 +42,7 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 ```
 # CALCULATION:
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ad07c44-94c7-436c-8938-d73b23224fdd" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f37e463f-9796-47d5-8c9f-716ab87511f1" />
 
 # OUTPUT: 
 
@@ -95,8 +95,7 @@ title('Frequency Response of FIR HPF using Rectangular Window');
 ```
 # CALCULATION:
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b77a7f3b-7ac8-4f65-bcfb-a17e6847ff2f" />
-
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/25c72ffd-d040-40aa-8a88-8c76498a7749" />
 
 
 # OUTPUT: 
@@ -151,7 +150,7 @@ title('Frequency Response of FIR BPF using Rectangular Window');
 ```
 # CALCULATION:
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/669faae4-01b2-488c-8050-43a9c12f381d" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a160f105-9185-462a-80d3-e03318fb252f" />
 
 # OUTPUT: 
 
@@ -205,7 +204,8 @@ title('Frequency Response of FIR BSF using Rectangular Window');
 ```
 # CALCULATION:
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/967fcbc5-987d-40e0-bf19-078497509b9f" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5eec2741-0afb-4726-a86c-1e0268ea2397" />
+
 
 # OUTPUT: 
 <img width="756" height="718" alt="image" src="https://github.com/user-attachments/assets/7947da26-cc61-4320-9059-0fd940c6108d" />
