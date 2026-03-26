@@ -1,4 +1,4 @@
-# FIR-FILTER-DESIGN
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/425a1040-9a89-477e-8416-4236b85c730d" /># FIR-FILTER-DESIGN
 # EXP 4 A: Design-of-FIR-Digital-Filter-using-Rectangular-Window
 
 # AIM 1:  To perform Design-of-LOWPASS FIR-Digital-Filter-using-Rectangular-Window using SCILAB.
@@ -42,7 +42,7 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 ```
 # CALCULATION:
 
-![WhatsApp Image 2026-03-24 at 11 02 48 PM](https://github.com/user-attachments/assets/fa696d8a-ddcb-4b9d-a25a-d62c82910b72)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ad07c44-94c7-436c-8938-d73b23224fdd" />
 
 # OUTPUT: 
 
@@ -95,7 +95,8 @@ title('Frequency Response of FIR HPF using Rectangular Window');
 ```
 # CALCULATION:
 
-![WhatsApp Image 2026-03-24 at 11 09 11 PM](https://github.com/user-attachments/assets/2578324e-1d23-4a28-98d2-55ddcf220cee)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b77a7f3b-7ac8-4f65-bcfb-a17e6847ff2f" />
+
 
 
 # OUTPUT: 
@@ -150,7 +151,7 @@ title('Frequency Response of FIR BPF using Rectangular Window');
 ```
 # CALCULATION:
 
-![WhatsApp Image 2026-03-24 at 11 13 01 PM](https://github.com/user-attachments/assets/58864370-d160-40e5-90bc-2d7b969f8cdc)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/669faae4-01b2-488c-8050-43a9c12f381d" />
 
 # OUTPUT: 
 
@@ -204,7 +205,7 @@ title('Frequency Response of FIR BSF using Rectangular Window');
 ```
 # CALCULATION:
 
-![WhatsApp Image 2026-03-24 at 11 14 58 PM](https://github.com/user-attachments/assets/c4937638-7e2a-4f5d-8528-37c643e3e141)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/967fcbc5-987d-40e0-bf19-078497509b9f" />
 
 # OUTPUT: 
 <img width="756" height="718" alt="image" src="https://github.com/user-attachments/assets/7947da26-cc61-4320-9059-0fd940c6108d" />
